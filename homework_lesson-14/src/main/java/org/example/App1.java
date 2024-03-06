@@ -1,9 +1,9 @@
 package org.example;
 
-import org.example.Task1.Rhombus;
-import org.example.Task1.Triangle;
 import org.example.Task1.Rectangle;
+import org.example.Task1.Rhombus;
 import org.example.Task1.Square;
+import org.example.Task1.Triangle;
 
 public class App1 {
     public static void main(String[] args) {
